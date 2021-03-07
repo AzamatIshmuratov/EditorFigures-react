@@ -569,8 +569,6 @@ export default class App extends Component {
 
         if (!moveObj){
             let imgData = this.ctx.current.getImageData(x, y, 1, 1);
-            //if (imgData.data[0] > 0){
-                
                 let red = imgData.data[0];
                 let green = imgData.data[1];
                 let blue = imgData.data[2];
