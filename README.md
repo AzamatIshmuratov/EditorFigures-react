@@ -8,4 +8,6 @@
 В режиме редактирования можно перемещать фигуру, отдельно узел. Двойным кликом ЛКМ удалять/добавлять узлы.
 </pre>
 
+Тестируйте: https://azamatishmuratov.github.io/EditorFigures/
+
 ![Create_figures](https://user-images.githubusercontent.com/36133714/110234744-0b60c500-7f4e-11eb-9da4-920264ba028f.PNG)
